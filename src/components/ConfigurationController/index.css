@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.controller-bg {
+  background-color: #475569;
+  color: white;
+  display: flex;
+  flex-direction: column;
+
+  padding: 20px;
+  padding-left: 10vw;
+}
+
+.user-input {
+  margin-left: 0px;
+  margin-right: 10px;
+}
+.input {
+  margin-bottom: 10px;
+}
